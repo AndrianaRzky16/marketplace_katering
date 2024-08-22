@@ -36,7 +36,7 @@ php artisan key:generate
 -   Jalankan migration
 
 ```shell
-php artisan migrate --seed
+php artisan migrate
 ```
 
 -   Jalankan Vite JS
